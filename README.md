@@ -27,7 +27,7 @@ If you want to manually install the required packages using your preferrec packa
 **Linux**
 ```bash
 apt install git python2-pip
-git clone https://github.com/rootinabox/Mass-Websites-Grabber-V3
+git clone https://github.com/RootinaboxCommunity/Mass-Websites-Grabber-V3
 cd Mass-Websites-Grabber-V3 
 pip install colorama
 pip install requests
